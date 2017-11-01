@@ -1,2 +1,2 @@
 # KECCAK
-codes related to cryptanalysis of KECCAK
+Cryptanalysis of KECCAK
